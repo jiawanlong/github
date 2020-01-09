@@ -92,8 +92,10 @@ git clone https://github.com/jiawanlong/demo.git
 ## 4、日常开发
 ### 4.1、常见时开发（热力图为例）
 遇到一个问题，可以先尝试模糊词搜索，例如leaflet heatmap，默认是根据star（好评）排序的。还可以切换不用的语言进行过滤，选择<a href="https://github.com/Leaflet/Leaflet.heat">第一个看看</a>
-1、默认的就是README.md，可以看下这个库的基本概括，同时我们自己开发的东西下面最好也有一个这样的文档，例如开发中心下有个部署的手册。（md是通用的标记语言，简化html)
-2、如果只是利用开发，则直接**Clone or download**，如果想据为己有，怕人家翻脸无情的删除东西，或者做出改变，可以fork一下下，如果你觉得人家不错，给个好评吧！
+
+1 、默认的就是README.md，可以看下这个库的基本概括，同时我们自己开发的东西下面最好也有一个这样的文档，例如开发中心下有个部署的手册。（md是通用的标记语言，简化html)
+
+2 、如果只是利用开发，则直接**Clone or download**，如果想据为己有，怕人家翻脸无情的删除东西，或者做出改变，可以fork一下下，如果你觉得人家不错，给个好评吧！
 ```
 git clone https://github.com/jiawanlong/Leaflet.heat.git
 ```
