@@ -102,3 +102,6 @@ git clone https://github.com/jiawanlong/Leaflet.heat.git
 查阅<a href="https://leafletjs.com/plugins.html">文档</a>的时候，遇到链接，不要慌，慢慢来，实在不行，右键,翻译成中文。
 ### 4.3、好奇时开发
 闲着没事时，可以在主页多搜索公司相关，或者其他科技公司相关的东西（supermap,google），有很多意向不到的收货。很多公司开发的新的东西，已经提交开源，没来得及宣传，我们要主动学习。
+# <a href="https://jiawanlong.github.io">打个广告</a>
+# <a href="https://jiawanlong.github.io/2018/06/18/%E5%89%8D%E8%AE%B0%E2%80%94%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%87%BA%E7%94%9F/">教程，拿走不送。</a>
+
