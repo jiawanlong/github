@@ -2,6 +2,8 @@
 # github学习教程
 
 
+<img src="https://upload-images.jianshu.io/upload_images/11139784-57afc6cf8a9cd977.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"/>
+
 ## 1、什么是 Github?
 <img src="https://upload-images.jianshu.io/upload_images/4064394-275d48bd7cb63cf5.png?imageMogr2/auto-orient/strip|imageView2/2/w/600/format/webp"/>
 
